@@ -1,0 +1,826 @@
+Unnamed: 0,Filename,Brand Name,Label
+0.0,output\Adidas\000001.jpg,Adidas,Genuine
+1.0,output\Adidas\000002.jpg,Adidas,Genuine
+2.0,output\Adidas\000003.jpg,Adidas,Genuine
+3.0,output\Adidas\000004.jpg,Adidas,Genuine
+4.0,output\Adidas\000005.jpg,Adidas,Genuine
+5.0,output\Amazon\000001.jpg,Amazon,Genuine
+6.0,output\Amazon\000002.jpg,Amazon,Genuine
+7.0,output\Amazon\000003.jpg,Amazon,Genuine
+8.0,output\Amazon\000004.jpg,Amazon,Genuine
+9.0,output\Amazon\000005.jpg,Amazon,Genuine
+10.0,output\Android\000001.jpg,Android,Genuine
+11.0,output\Android\000002.jpg,Android,Genuine
+12.0,output\Android\000003.jpg,Android,Genuine
+13.0,output\Android\000004.jpg,Android,Genuine
+14.0,output\Android\000005.jpg,Android,Genuine
+15.0,output\Apple\000001.jpg,Apple,Genuine
+16.0,output\Apple\000002.jpg,Apple,Genuine
+17.0,output\Apple\000003.jpg,Apple,Genuine
+18.0,output\Apple\000004.jpg,Apple,Genuine
+19.0,output\Apple\000005.jpg,Apple,Genuine
+20.0,output\Ariel\000001.jpg,Ariel,Genuine
+21.0,output\Ariel\000002.jpg,Ariel,Genuine
+22.0,output\Ariel\000005.jpg,Ariel,Genuine
+23.0,output\Bic\000001.jpg,Bic,Genuine
+24.0,output\Bic\000002.jpg,Bic,Genuine
+25.0,output\Bic\000003.jpg,Bic,Genuine
+26.0,output\Bic\000004.jpg,Bic,Genuine
+27.0,output\Bic\000005.jpg,Bic,Genuine
+28.0,output\BMW\000001.jpg,BMW,Genuine
+29.0,output\BMW\000003.jpg,BMW,Genuine
+30.0,output\BMW\000004.jpg,BMW,Genuine
+31.0,output\BMW\000005.jpg,BMW,Genuine
+32.0,output\Burger King\000002.jpg,Burger King,Genuine
+33.0,output\Burger King\000003.jpg,Burger King,Genuine
+34.0,output\Burger King\000004.jpg,Burger King,Genuine
+35.0,output\Burger King\000005.jpg,Burger King,Genuine
+36.0,output\Cadbury\000001.jpg,Cadbury,Genuine
+37.0,output\Cadbury\000002.jpg,Cadbury,Genuine
+38.0,output\Cadbury\000003.jpg,Cadbury,Genuine
+39.0,output\Cadbury\000004.jpg,Cadbury,Genuine
+40.0,output\Chevrolet\000001.jpg,Chevrolet,Genuine
+41.0,output\Chevrolet\000002.jpg,Chevrolet,Genuine
+42.0,output\Chevrolet\000003.jpg,Chevrolet,Genuine
+43.0,output\Chevrolet\000004.jpg,Chevrolet,Genuine
+44.0,output\Chevrolet\000005.jpg,Chevrolet,Genuine
+45.0,output\Chrome\000001.jpg,Chrome,Genuine
+46.0,output\Chrome\000002.jpg,Chrome,Genuine
+47.0,output\Chrome\000003.jpg,Chrome,Genuine
+48.0,output\Chrome\000004.jpg,Chrome,Genuine
+49.0,output\Chrome\000005.jpg,Chrome,Genuine
+50.0,output\Coca Cola\000001.jpg,Coca Cola,Genuine
+51.0,output\Coca Cola\000003.jpg,Coca Cola,Genuine
+52.0,output\Coca Cola\000004.jpg,Coca Cola,Genuine
+53.0,output\Coca Cola\000005.jpg,Coca Cola,Genuine
+54.0,output\Cowbell\000001.jpg,Cowbell,Genuine
+55.0,output\Cowbell\000002.jpg,Cowbell,Genuine
+56.0,output\Cowbell\000003.jpg,Cowbell,Genuine
+57.0,output\Dominos\000001.jpg,Dominos,Genuine
+58.0,output\Dominos\000002.jpg,Dominos,Genuine
+59.0,output\Dominos\000003.jpg,Dominos,Genuine
+60.0,output\Dominos\000004.jpg,Dominos,Genuine
+61.0,output\Fila\000001.jpg,Fila,Genuine
+62.0,output\Fila\000002.jpg,Fila,Genuine
+63.0,output\Fila\000003.jpg,Fila,Genuine
+64.0,output\Fila\000004.jpg,Fila,Genuine
+65.0,output\Fila\000005.jpg,Fila,Genuine
+66.0,output\Gillette\000001.jpg,Gillette,Genuine
+67.0,output\Gillette\000002.jpg,Gillette,Genuine
+68.0,output\Gillette\000003.jpg,Gillette,Genuine
+69.0,output\Gillette\000004.jpg,Gillette,Genuine
+70.0,output\Gillette\000005.jpg,Gillette,Genuine
+71.0,output\Google\000001.jpg,Google,Genuine
+72.0,output\Google\000002.jpg,Google,Genuine
+73.0,output\Google\000003.jpg,Google,Genuine
+74.0,output\Google\000004.jpg,Google,Genuine
+75.0,output\Google\000005.jpg,Google,Genuine
+76.0,output\Goya oil\000001.jpg,Goya oil,Genuine
+77.0,output\Goya oil\000002.jpg,Goya oil,Genuine
+78.0,output\Goya oil\000003.jpg,Goya oil,Genuine
+79.0,output\Guinness\000001.jpg,Guinness,Genuine
+80.0,output\Guinness\000002.jpg,Guinness,Genuine
+81.0,output\Guinness\000003.jpg,Guinness,Genuine
+82.0,output\Guinness\000004.jpg,Guinness,Genuine
+83.0,output\Guinness\000005.jpg,Guinness,Genuine
+84.0,output\Heinz\000001.jpg,Heinz,Genuine
+85.0,output\Heinz\000002.jpg,Heinz,Genuine
+86.0,output\Heinz\000003.jpg,Heinz,Genuine
+87.0,output\Heinz\000004.jpg,Heinz,Genuine
+88.0,output\Heinz\000005.jpg,Heinz,Genuine
+89.0,output\Honda\000001.jpg,Honda,Genuine
+90.0,output\Honda\000002.jpg,Honda,Genuine
+91.0,output\Honda\000003.jpg,Honda,Genuine
+92.0,output\Honda\000004.jpg,Honda,Genuine
+93.0,output\Hp\000001.jpg,Hp,Genuine
+94.0,output\Hp\000002.jpg,Hp,Genuine
+95.0,output\Hp\000003.jpg,Hp,Genuine
+96.0,output\Hp\000004.jpg,Hp,Genuine
+97.0,output\Hp\000005.jpg,Hp,Genuine
+98.0,output\Huawei\000001.jpg,Huawei,Genuine
+99.0,output\Huawei\000002.jpg,Huawei,Genuine
+100.0,output\Huawei\000003.jpg,Huawei,Genuine
+101.0,output\Huawei\000004.jpg,Huawei,Genuine
+102.0,output\Huawei\000005.jpg,Huawei,Genuine
+103.0,output\Instagram\000001.jpg,Instagram,Genuine
+104.0,output\Instagram\000002.jpg,Instagram,Genuine
+105.0,output\Instagram\000003.jpg,Instagram,Genuine
+106.0,output\Instagram\000004.jpg,Instagram,Genuine
+107.0,output\Instagram\000005.jpg,Instagram,Genuine
+108.0,output\Kfc\000001.jpg,Kfc,Genuine
+109.0,output\Kfc\000002.jpg,Kfc,Genuine
+110.0,output\Kfc\000003.jpg,Kfc,Genuine
+111.0,output\Kfc\000004.jpg,Kfc,Genuine
+112.0,output\Kfc\000005.jpg,Kfc,Genuine
+113.0,output\Krisspy Kreme\000001.jpg,Krisspy Kreme,Genuine
+114.0,output\Krisspy Kreme\000002.jpg,Krisspy Kreme,Genuine
+115.0,output\Krisspy Kreme\000003.jpg,Krisspy Kreme,Genuine
+116.0,output\Krisspy Kreme\000004.jpg,Krisspy Kreme,Genuine
+117.0,output\Krisspy Kreme\000005.jpg,Krisspy Kreme,Genuine
+118.0,output\Lays\000001.jpg,Lays,Genuine
+119.0,output\Lays\000002.jpg,Lays,Genuine
+120.0,output\Lays\000003.jpg,Lays,Genuine
+121.0,output\Lays\000004.jpg,Lays,Genuine
+122.0,output\Lays\000005.jpg,Lays,Genuine
+123.0,output\Levi's\000001.jpg,Levi's,Genuine
+124.0,output\Levi's\000002.jpg,Levi's,Genuine
+125.0,output\Levi's\000003.jpg,Levi's,Genuine
+126.0,output\Levi's\000004.jpg,Levi's,Genuine
+127.0,output\Lg\000001.jpg,Lg,Genuine
+128.0,output\Lg\000003.jpg,Lg,Genuine
+129.0,output\Lg\000004.jpg,Lg,Genuine
+130.0,output\Lg\000005.jpg,Lg,Genuine
+131.0,output\Lipton\000001.jpg,Lipton,Genuine
+132.0,output\Lipton\000002.jpg,Lipton,Genuine
+133.0,output\Lipton\000003.jpg,Lipton,Genuine
+134.0,output\Lipton\000005.jpg,Lipton,Genuine
+135.0,output\M&m\000001.jpg,M&m,Genuine
+136.0,output\M&m\000002.jpg,M&m,Genuine
+137.0,output\M&m\000003.jpg,M&m,Genuine
+138.0,output\M&m\000004.jpg,M&m,Genuine
+139.0,output\Mars\000001.jpg,Mars,Genuine
+140.0,output\Mars\000002.jpg,Mars,Genuine
+141.0,output\Mars\000004.jpg,Mars,Genuine
+142.0,output\Marvel\000001.jpg,Marvel,Genuine
+143.0,output\Marvel\000002.jpg,Marvel,Genuine
+144.0,output\Marvel\000003.jpg,Marvel,Genuine
+145.0,output\Marvel\000004.jpg,Marvel,Genuine
+146.0,output\Marvel\000005.jpg,Marvel,Genuine
+147.0,output\McDonald\000001.jpg,McDonald,Genuine
+148.0,output\McDonald\000002.jpg,McDonald,Genuine
+149.0,output\McDonald\000003.jpg,McDonald,Genuine
+150.0,output\McDonald\000004.jpg,McDonald,Genuine
+151.0,output\McDonald\000005.jpg,McDonald,Genuine
+152.0,output\Mercedes Benz\000001.jpg,Mercedes Benz,Genuine
+153.0,output\Mercedes Benz\000002.jpg,Mercedes Benz,Genuine
+154.0,output\Mercedes Benz\000003.jpg,Mercedes Benz,Genuine
+155.0,output\Mercedes Benz\000005.jpg,Mercedes Benz,Genuine
+156.0,output\Microsoft\000001.jpg,Microsoft,Genuine
+157.0,output\Microsoft\000002.jpg,Microsoft,Genuine
+158.0,output\Microsoft\000003.jpg,Microsoft,Genuine
+159.0,output\Microsoft\000004.jpg,Microsoft,Genuine
+160.0,output\Mtn\000001.jpg,Mtn,Genuine
+161.0,output\Mtn\000002.jpg,Mtn,Genuine
+162.0,output\Mtn\000004.jpg,Mtn,Genuine
+163.0,output\Mtn\000005.jpg,Mtn,Genuine
+164.0,output\Mtn dew\000001.jpg,Mtn dew,Genuine
+165.0,output\Mtn dew\000002.jpg,Mtn dew,Genuine
+166.0,output\Mtn dew\000003.jpg,Mtn dew,Genuine
+167.0,output\Mtn dew\000004.jpg,Mtn dew,Genuine
+168.0,output\Mtn dew\000005.jpg,Mtn dew,Genuine
+169.0,output\NASA\000002.jpg,NASA,Genuine
+170.0,output\NASA\000004.jpg,NASA,Genuine
+171.0,output\NASA\000005.jpg,NASA,Genuine
+172.0,output\Nescafe\000001.jpg,Nescafe,Genuine
+173.0,output\Nescafe\000002.jpg,Nescafe,Genuine
+174.0,output\Nescafe\000003.jpg,Nescafe,Genuine
+175.0,output\Nescafe\000004.jpg,Nescafe,Genuine
+176.0,output\Nescafe\000005.jpg,Nescafe,Genuine
+177.0,output\Nestle\000001.jpg,Nestle,Genuine
+178.0,output\Nestle\000002.jpg,Nestle,Genuine
+179.0,output\Nestle\000003.jpg,Nestle,Genuine
+180.0,output\Nestle\000005.jpg,Nestle,Genuine
+181.0,output\Nestle milo\000001.jpg,Nestle milo,Genuine
+182.0,output\Nestle milo\000002.jpg,Nestle milo,Genuine
+183.0,output\Nestle milo\000003.jpg,Nestle milo,Genuine
+184.0,output\Nestle milo\000004.jpg,Nestle milo,Genuine
+185.0,output\Nestle milo\000005.jpg,Nestle milo,Genuine
+186.0,output\Netflix\000001.jpg,Netflix,Genuine
+187.0,output\Netflix\000003.jpg,Netflix,Genuine
+188.0,output\Netflix\000004.jpg,Netflix,Genuine
+189.0,output\Netflix\000005.jpg,Netflix,Genuine
+190.0,output\Nike\000001.jpg,Nike,Genuine
+191.0,output\Nike\000002.jpg,Nike,Genuine
+192.0,output\Nike\000003.jpg,Nike,Genuine
+193.0,output\Nike\000005.jpg,Nike,Genuine
+194.0,output\Nutella\000001.jpg,Nutella,Genuine
+195.0,output\Nutella\000002.jpg,Nutella,Genuine
+196.0,output\Nutella\000003.jpg,Nutella,Genuine
+197.0,output\Nutella\000004.jpg,Nutella,Genuine
+198.0,output\Oral b\000001.jpg,Oral b,Genuine
+199.0,output\Oral b\000002.jpg,Oral b,Genuine
+200.0,output\Oral b\000003.jpg,Oral b,Genuine
+201.0,output\Oral b\000004.jpg,Oral b,Genuine
+202.0,output\Oral b\000005.jpg,Oral b,Genuine
+203.0,output\Oreo\000001.jpg,Oreo,Genuine
+204.0,output\Oreo\000002.jpg,Oreo,Genuine
+205.0,output\Oreo\000003.jpg,Oreo,Genuine
+206.0,output\Pay pal\000001.jpg,Pay pal,Genuine
+207.0,output\Pay pal\000002.jpg,Pay pal,Genuine
+208.0,output\Pay pal\000003.jpg,Pay pal,Genuine
+209.0,output\Pay pal\000004.jpg,Pay pal,Genuine
+210.0,output\Peak milk\000001.jpg,Peak milk,Genuine
+211.0,output\Peak milk\000002.jpg,Peak milk,Genuine
+212.0,output\Peak milk\000003.jpg,Peak milk,Genuine
+213.0,output\Peak milk\000004.jpg,Peak milk,Genuine
+214.0,output\Peak milk\000005.jpg,Peak milk,Genuine
+215.0,output\Pepsi\000001.jpg,Pepsi,Genuine
+216.0,output\Pepsi\000002.jpg,Pepsi,Genuine
+217.0,output\Pepsi\000004.jpg,Pepsi,Genuine
+218.0,output\Pepsi\000005.jpg,Pepsi,Genuine
+219.0,output\PlayStation\000001.jpg,PlayStation,Genuine
+220.0,output\PlayStation\000002.jpg,PlayStation,Genuine
+221.0,output\PlayStation\000003.jpg,PlayStation,Genuine
+222.0,output\PlayStation\000004.jpg,PlayStation,Genuine
+223.0,output\PlayStation\000005.jpg,PlayStation,Genuine
+224.0,output\Pringles\000001.jpg,Pringles,Genuine
+225.0,output\Pringles\000003.jpg,Pringles,Genuine
+226.0,output\Pringles\000004.jpg,Pringles,Genuine
+227.0,output\Pringles\000005.jpg,Pringles,Genuine
+228.0,output\Puma\000001.jpg,Puma,Genuine
+229.0,output\Puma\000002.jpg,Puma,Genuine
+230.0,output\Puma\000005.jpg,Puma,Genuine
+231.0,output\Reebok\000002.jpg,Reebok,Genuine
+232.0,output\Reebok\000003.jpg,Reebok,Genuine
+233.0,output\Reebok\000004.jpg,Reebok,Genuine
+234.0,output\Reebok\000005.jpg,Reebok,Genuine
+235.0,output\Rolex\000001.jpg,Rolex,Genuine
+236.0,output\Rolex\000002.jpg,Rolex,Genuine
+237.0,output\Rolex\000003.jpg,Rolex,Genuine
+238.0,output\Rolex\000004.jpg,Rolex,Genuine
+239.0,output\Samsung\000001.jpg,Samsung,Genuine
+240.0,output\Samsung\000002.jpg,Samsung,Genuine
+241.0,output\Samsung\000004.jpg,Samsung,Genuine
+242.0,output\Samsung\000005.jpg,Samsung,Genuine
+243.0,output\Sprite\000001.jpg,Sprite,Genuine
+244.0,output\Sprite\000002.jpg,Sprite,Genuine
+245.0,output\Sprite\000003.jpg,Sprite,Genuine
+246.0,output\Sprite\000004.jpg,Sprite,Genuine
+247.0,output\Sprite\000005.jpg,Sprite,Genuine
+248.0,output\Starbucks\000001.jpg,Starbucks,Genuine
+249.0,output\Starbucks\000002.jpg,Starbucks,Genuine
+250.0,output\Starbucks\000003.jpg,Starbucks,Genuine
+251.0,output\Starbucks\000004.jpg,Starbucks,Genuine
+252.0,output\Tesla\000001.jpg,Tesla,Genuine
+253.0,output\Tesla\000002.jpg,Tesla,Genuine
+254.0,output\Tesla\000003.jpg,Tesla,Genuine
+255.0,output\Tesla\000004.jpg,Tesla,Genuine
+256.0,output\Tesla\000005.jpg,Tesla,Genuine
+257.0,output\Tiktok\000001.jpg,Tiktok,Genuine
+258.0,output\Tiktok\000002.jpg,Tiktok,Genuine
+259.0,output\Tiktok\000004.jpg,Tiktok,Genuine
+260.0,output\Tiktok\000005.jpg,Tiktok,Genuine
+261.0,output\Twitter\000001.jpg,Twitter,Genuine
+262.0,output\Twitter\000002.jpg,Twitter,Genuine
+263.0,output\Twitter\000003.jpg,Twitter,Genuine
+264.0,output\Twitter\000004.jpg,Twitter,Genuine
+265.0,output\Twitter\000005.jpg,Twitter,Genuine
+266.0,output\YouTube\000001.jpg,YouTube,Genuine
+267.0,output\YouTube\000002.jpg,YouTube,Genuine
+268.0,output\YouTube\000003.jpg,YouTube,Genuine
+269.0,output\YouTube\000004.jpg,YouTube,Genuine
+270.0,output\YouTube\000005.jpg,YouTube,Genuine
+271.0,output\Zara\000001.jpg,Zara,Genuine
+272.0,output\Zara\000002.jpg,Zara,Genuine
+273.0,output\Zara\000003.jpg,Zara,Genuine
+274.0,output\Zara\000005.jpg,Zara,Genuine
+,genLogoOutput\Adidas\000001.jpg,Adidas,Fake
+,genLogoOutput\Adidas\000002.jpg,Adidas,Fake
+,genLogoOutput\Adidas\000003.jpg,Adidas,Fake
+,genLogoOutput\Adidas\000004.jpg,Adidas,Fake
+,genLogoOutput\Adidas\000005.jpg,Adidas,Fake
+,genLogoOutput\Amazon\000001.jpg,Amazon,Fake
+,genLogoOutput\Amazon\000002.jpg,Amazon,Fake
+,genLogoOutput\Amazon\000003.jpg,Amazon,Fake
+,genLogoOutput\Amazon\000004.jpg,Amazon,Fake
+,genLogoOutput\Amazon\000005.jpg,Amazon,Fake
+,genLogoOutput\Android\000001.jpg,Android,Fake
+,genLogoOutput\Android\000002.jpg,Android,Fake
+,genLogoOutput\Android\000003.jpg,Android,Fake
+,genLogoOutput\Android\000004.jpg,Android,Fake
+,genLogoOutput\Android\000005.jpg,Android,Fake
+,genLogoOutput\Apple\000001.jpg,Apple,Fake
+,genLogoOutput\Apple\000002.jpg,Apple,Fake
+,genLogoOutput\Apple\000003.jpg,Apple,Fake
+,genLogoOutput\Apple\000004.jpg,Apple,Fake
+,genLogoOutput\Apple\000005.jpg,Apple,Fake
+,genLogoOutput\Ariel\000001.jpg,Ariel,Fake
+,genLogoOutput\Ariel\000002.jpg,Ariel,Fake
+,genLogoOutput\Ariel\000005.jpg,Ariel,Fake
+,genLogoOutput\Bic\000001.jpg,Bic,Fake
+,genLogoOutput\Bic\000002.jpg,Bic,Fake
+,genLogoOutput\Bic\000003.jpg,Bic,Fake
+,genLogoOutput\Bic\000004.jpg,Bic,Fake
+,genLogoOutput\Bic\000005.jpg,Bic,Fake
+,genLogoOutput\BMW\000001.jpg,BMW,Fake
+,genLogoOutput\BMW\000003.jpg,BMW,Fake
+,genLogoOutput\BMW\000004.jpg,BMW,Fake
+,genLogoOutput\BMW\000005.jpg,BMW,Fake
+,genLogoOutput\Burger King\000002.jpg,Burger King,Fake
+,genLogoOutput\Burger King\000003.jpg,Burger King,Fake
+,genLogoOutput\Burger King\000004.jpg,Burger King,Fake
+,genLogoOutput\Burger King\000005.jpg,Burger King,Fake
+,genLogoOutput\Cadbury\000001.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\000002.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\000003.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\000004.jpg,Cadbury,Fake
+,genLogoOutput\Chevrolet\000001.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\000002.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\000003.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\000004.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\000005.jpg,Chevrolet,Fake
+,genLogoOutput\Chrome\000001.jpg,Chrome,Fake
+,genLogoOutput\Chrome\000002.jpg,Chrome,Fake
+,genLogoOutput\Chrome\000003.jpg,Chrome,Fake
+,genLogoOutput\Chrome\000004.jpg,Chrome,Fake
+,genLogoOutput\Chrome\000005.jpg,Chrome,Fake
+,genLogoOutput\Coca Cola\000001.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\000003.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\000004.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\000005.jpg,Coca Cola,Fake
+,genLogoOutput\Cowbell\000001.jpg,Cowbell,Fake
+,genLogoOutput\Cowbell\000002.jpg,Cowbell,Fake
+,genLogoOutput\Cowbell\000003.jpg,Cowbell,Fake
+,genLogoOutput\Dominos\000001.jpg,Dominos,Fake
+,genLogoOutput\Dominos\000002.jpg,Dominos,Fake
+,genLogoOutput\Dominos\000003.jpg,Dominos,Fake
+,genLogoOutput\Dominos\000004.jpg,Dominos,Fake
+,genLogoOutput\Fila\000001.jpg,Fila,Fake
+,genLogoOutput\Fila\000002.jpg,Fila,Fake
+,genLogoOutput\Fila\000003.jpg,Fila,Fake
+,genLogoOutput\Fila\000004.jpg,Fila,Fake
+,genLogoOutput\Fila\000005.jpg,Fila,Fake
+,genLogoOutput\Gillette\000001.jpg,Gillette,Fake
+,genLogoOutput\Gillette\000002.jpg,Gillette,Fake
+,genLogoOutput\Gillette\000003.jpg,Gillette,Fake
+,genLogoOutput\Gillette\000004.jpg,Gillette,Fake
+,genLogoOutput\Gillette\000005.jpg,Gillette,Fake
+,genLogoOutput\Google\000001.jpg,Google,Fake
+,genLogoOutput\Google\000002.jpg,Google,Fake
+,genLogoOutput\Google\000003.jpg,Google,Fake
+,genLogoOutput\Google\000004.jpg,Google,Fake
+,genLogoOutput\Google\000005.jpg,Google,Fake
+,genLogoOutput\Goya oil\000001.jpg,Goya oil,Fake
+,genLogoOutput\Goya oil\000002.jpg,Goya oil,Fake
+,genLogoOutput\Goya oil\000003.jpg,Goya oil,Fake
+,genLogoOutput\Guinness\000001.jpg,Guinness,Fake
+,genLogoOutput\Guinness\000002.jpg,Guinness,Fake
+,genLogoOutput\Guinness\000003.jpg,Guinness,Fake
+,genLogoOutput\Guinness\000004.jpg,Guinness,Fake
+,genLogoOutput\Guinness\000005.jpg,Guinness,Fake
+,genLogoOutput\Heinz\000001.jpg,Heinz,Fake
+,genLogoOutput\Heinz\000002.jpg,Heinz,Fake
+,genLogoOutput\Heinz\000003.jpg,Heinz,Fake
+,genLogoOutput\Heinz\000004.jpg,Heinz,Fake
+,genLogoOutput\Heinz\000005.jpg,Heinz,Fake
+,genLogoOutput\Honda\000001.jpg,Honda,Fake
+,genLogoOutput\Honda\000002.jpg,Honda,Fake
+,genLogoOutput\Honda\000003.jpg,Honda,Fake
+,genLogoOutput\Honda\000004.jpg,Honda,Fake
+,genLogoOutput\Hp\000001.jpg,Hp,Fake
+,genLogoOutput\Hp\000002.jpg,Hp,Fake
+,genLogoOutput\Hp\000003.jpg,Hp,Fake
+,genLogoOutput\Hp\000004.jpg,Hp,Fake
+,genLogoOutput\Hp\000005.jpg,Hp,Fake
+,genLogoOutput\Huawei\000001.jpg,Huawei,Fake
+,genLogoOutput\Huawei\000002.jpg,Huawei,Fake
+,genLogoOutput\Huawei\000003.jpg,Huawei,Fake
+,genLogoOutput\Huawei\000004.jpg,Huawei,Fake
+,genLogoOutput\Huawei\000005.jpg,Huawei,Fake
+,genLogoOutput\Instagram\000001.jpg,Instagram,Fake
+,genLogoOutput\Instagram\000002.jpg,Instagram,Fake
+,genLogoOutput\Instagram\000003.jpg,Instagram,Fake
+,genLogoOutput\Instagram\000004.jpg,Instagram,Fake
+,genLogoOutput\Instagram\000005.jpg,Instagram,Fake
+,genLogoOutput\Kfc\000001.jpg,Kfc,Fake
+,genLogoOutput\Kfc\000002.jpg,Kfc,Fake
+,genLogoOutput\Kfc\000003.jpg,Kfc,Fake
+,genLogoOutput\Kfc\000004.jpg,Kfc,Fake
+,genLogoOutput\Kfc\000005.jpg,Kfc,Fake
+,genLogoOutput\Krisspy Kreme\000001.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\000002.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\000003.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\000004.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\000005.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Lays\000001.jpg,Lays,Fake
+,genLogoOutput\Lays\000002.jpg,Lays,Fake
+,genLogoOutput\Lays\000003.jpg,Lays,Fake
+,genLogoOutput\Lays\000004.jpg,Lays,Fake
+,genLogoOutput\Lays\000005.jpg,Lays,Fake
+,genLogoOutput\Levi's\000001.jpg,Levi's,Fake
+,genLogoOutput\Levi's\000002.jpg,Levi's,Fake
+,genLogoOutput\Levi's\000003.jpg,Levi's,Fake
+,genLogoOutput\Levi's\000004.jpg,Levi's,Fake
+,genLogoOutput\Lg\000001.jpg,Lg,Fake
+,genLogoOutput\Lg\000003.jpg,Lg,Fake
+,genLogoOutput\Lg\000004.jpg,Lg,Fake
+,genLogoOutput\Lg\000005.jpg,Lg,Fake
+,genLogoOutput\Lipton\000001.jpg,Lipton,Fake
+,genLogoOutput\Lipton\000002.jpg,Lipton,Fake
+,genLogoOutput\Lipton\000003.jpg,Lipton,Fake
+,genLogoOutput\Lipton\000005.jpg,Lipton,Fake
+,genLogoOutput\M&m\000001.jpg,M&m,Fake
+,genLogoOutput\M&m\000002.jpg,M&m,Fake
+,genLogoOutput\M&m\000003.jpg,M&m,Fake
+,genLogoOutput\M&m\000004.jpg,M&m,Fake
+,genLogoOutput\Mars\000001.jpg,Mars,Fake
+,genLogoOutput\Mars\000002.jpg,Mars,Fake
+,genLogoOutput\Mars\000004.jpg,Mars,Fake
+,genLogoOutput\Marvel\000001.jpg,Marvel,Fake
+,genLogoOutput\Marvel\000002.jpg,Marvel,Fake
+,genLogoOutput\Marvel\000003.jpg,Marvel,Fake
+,genLogoOutput\Marvel\000004.jpg,Marvel,Fake
+,genLogoOutput\Marvel\000005.jpg,Marvel,Fake
+,genLogoOutput\McDonald\000001.jpg,McDonald,Fake
+,genLogoOutput\McDonald\000002.jpg,McDonald,Fake
+,genLogoOutput\McDonald\000003.jpg,McDonald,Fake
+,genLogoOutput\McDonald\000004.jpg,McDonald,Fake
+,genLogoOutput\McDonald\000005.jpg,McDonald,Fake
+,genLogoOutput\Mercedes Benz\000001.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\000002.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\000003.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\000005.jpg,Mercedes Benz,Fake
+,genLogoOutput\Microsoft\000001.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\000002.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\000003.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\000004.jpg,Microsoft,Fake
+,genLogoOutput\Mtn\000001.jpg,Mtn,Fake
+,genLogoOutput\Mtn\000002.jpg,Mtn,Fake
+,genLogoOutput\Mtn\000004.jpg,Mtn,Fake
+,genLogoOutput\Mtn\000005.jpg,Mtn,Fake
+,genLogoOutput\Mtn dew\000001.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\000002.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\000003.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\000004.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\000005.jpg,Mtn dew,Fake
+,genLogoOutput\NASA\000002.jpg,NASA,Fake
+,genLogoOutput\NASA\000004.jpg,NASA,Fake
+,genLogoOutput\NASA\000005.jpg,NASA,Fake
+,genLogoOutput\Nescafe\000001.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\000002.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\000003.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\000004.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\000005.jpg,Nescafe,Fake
+,genLogoOutput\Nestle\000001.jpg,Nestle,Fake
+,genLogoOutput\Nestle\000002.jpg,Nestle,Fake
+,genLogoOutput\Nestle\000003.jpg,Nestle,Fake
+,genLogoOutput\Nestle\000005.jpg,Nestle,Fake
+,genLogoOutput\Nestle milo\000001.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\000002.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\000003.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\000004.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\000005.jpg,Nestle milo,Fake
+,genLogoOutput\Netflix\000001.jpg,Netflix,Fake
+,genLogoOutput\Netflix\000003.jpg,Netflix,Fake
+,genLogoOutput\Netflix\000004.jpg,Netflix,Fake
+,genLogoOutput\Netflix\000005.jpg,Netflix,Fake
+,genLogoOutput\Nike\000001.jpg,Nike,Fake
+,genLogoOutput\Nike\000002.jpg,Nike,Fake
+,genLogoOutput\Nike\000003.jpg,Nike,Fake
+,genLogoOutput\Nike\000005.jpg,Nike,Fake
+,genLogoOutput\Nutella\000001.jpg,Nutella,Fake
+,genLogoOutput\Nutella\000002.jpg,Nutella,Fake
+,genLogoOutput\Nutella\000003.jpg,Nutella,Fake
+,genLogoOutput\Nutella\000004.jpg,Nutella,Fake
+,genLogoOutput\Oral b\000001.jpg,Oral b,Fake
+,genLogoOutput\Oral b\000002.jpg,Oral b,Fake
+,genLogoOutput\Oral b\000003.jpg,Oral b,Fake
+,genLogoOutput\Oral b\000004.jpg,Oral b,Fake
+,genLogoOutput\Oral b\000005.jpg,Oral b,Fake
+,genLogoOutput\Oreo\000001.jpg,Oreo,Fake
+,genLogoOutput\Oreo\000002.jpg,Oreo,Fake
+,genLogoOutput\Oreo\000003.jpg,Oreo,Fake
+,genLogoOutput\Pay pal\000001.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\000002.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\000003.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\000004.jpg,Pay pal,Fake
+,genLogoOutput\Peak milk\000001.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\000002.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\000003.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\000004.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\000005.jpg,Peak milk,Fake
+,genLogoOutput\Pepsi\000001.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\000002.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\000004.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\000005.jpg,Pepsi,Fake
+,genLogoOutput\PlayStation\000001.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\000002.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\000003.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\000004.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\000005.jpg,PlayStation,Fake
+,genLogoOutput\Pringles\000001.jpg,Pringles,Fake
+,genLogoOutput\Pringles\000003.jpg,Pringles,Fake
+,genLogoOutput\Pringles\000004.jpg,Pringles,Fake
+,genLogoOutput\Pringles\000005.jpg,Pringles,Fake
+,genLogoOutput\Puma\000001.jpg,Puma,Fake
+,genLogoOutput\Puma\000002.jpg,Puma,Fake
+,genLogoOutput\Puma\000005.jpg,Puma,Fake
+,genLogoOutput\Reebok\000002.jpg,Reebok,Fake
+,genLogoOutput\Reebok\000003.jpg,Reebok,Fake
+,genLogoOutput\Reebok\000004.jpg,Reebok,Fake
+,genLogoOutput\Reebok\000005.jpg,Reebok,Fake
+,genLogoOutput\Rolex\000001.jpg,Rolex,Fake
+,genLogoOutput\Rolex\000002.jpg,Rolex,Fake
+,genLogoOutput\Rolex\000003.jpg,Rolex,Fake
+,genLogoOutput\Rolex\000004.jpg,Rolex,Fake
+,genLogoOutput\Samsung\000001.jpg,Samsung,Fake
+,genLogoOutput\Samsung\000002.jpg,Samsung,Fake
+,genLogoOutput\Samsung\000004.jpg,Samsung,Fake
+,genLogoOutput\Samsung\000005.jpg,Samsung,Fake
+,genLogoOutput\Sprite\000001.jpg,Sprite,Fake
+,genLogoOutput\Sprite\000002.jpg,Sprite,Fake
+,genLogoOutput\Sprite\000003.jpg,Sprite,Fake
+,genLogoOutput\Sprite\000004.jpg,Sprite,Fake
+,genLogoOutput\Sprite\000005.jpg,Sprite,Fake
+,genLogoOutput\Starbucks\000001.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\000002.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\000003.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\000004.jpg,Starbucks,Fake
+,genLogoOutput\Tesla\000001.jpg,Tesla,Fake
+,genLogoOutput\Tesla\000002.jpg,Tesla,Fake
+,genLogoOutput\Tesla\000003.jpg,Tesla,Fake
+,genLogoOutput\Tesla\000004.jpg,Tesla,Fake
+,genLogoOutput\Tesla\000005.jpg,Tesla,Fake
+,genLogoOutput\Tiktok\000001.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\000002.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\000004.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\000005.jpg,Tiktok,Fake
+,genLogoOutput\Twitter\000001.jpg,Twitter,Fake
+,genLogoOutput\Twitter\000002.jpg,Twitter,Fake
+,genLogoOutput\Twitter\000003.jpg,Twitter,Fake
+,genLogoOutput\Twitter\000004.jpg,Twitter,Fake
+,genLogoOutput\Twitter\000005.jpg,Twitter,Fake
+,genLogoOutput\YouTube\000001.jpg,YouTube,Fake
+,genLogoOutput\YouTube\000002.jpg,YouTube,Fake
+,genLogoOutput\YouTube\000003.jpg,YouTube,Fake
+,genLogoOutput\YouTube\000004.jpg,YouTube,Fake
+,genLogoOutput\YouTube\000005.jpg,YouTube,Fake
+,genLogoOutput\Zara\000001.jpg,Zara,Fake
+,genLogoOutput\Zara\000002.jpg,Zara,Fake
+,genLogoOutput\Zara\000003.jpg,Zara,Fake
+,genLogoOutput\Zara\000005.jpg,Zara,Fake
+,genLogoOutput\Adidas\scal_000001.jpg,Adidas,Fake
+,genLogoOutput\Adidas\scal_000002.jpg,Adidas,Fake
+,genLogoOutput\Adidas\scal_000003.jpg,Adidas,Fake
+,genLogoOutput\Adidas\scal_000004.jpg,Adidas,Fake
+,genLogoOutput\Adidas\scal_000005.jpg,Adidas,Fake
+,genLogoOutput\Amazon\scal_000001.jpg,Amazon,Fake
+,genLogoOutput\Amazon\scal_000002.jpg,Amazon,Fake
+,genLogoOutput\Amazon\scal_000003.jpg,Amazon,Fake
+,genLogoOutput\Amazon\scal_000004.jpg,Amazon,Fake
+,genLogoOutput\Amazon\scal_000005.jpg,Amazon,Fake
+,genLogoOutput\Android\scal_000001.jpg,Android,Fake
+,genLogoOutput\Android\scal_000002.jpg,Android,Fake
+,genLogoOutput\Android\scal_000003.jpg,Android,Fake
+,genLogoOutput\Android\scal_000004.jpg,Android,Fake
+,genLogoOutput\Android\scal_000005.jpg,Android,Fake
+,genLogoOutput\Apple\scal_000001.jpg,Apple,Fake
+,genLogoOutput\Apple\scal_000002.jpg,Apple,Fake
+,genLogoOutput\Apple\scal_000003.jpg,Apple,Fake
+,genLogoOutput\Apple\scal_000004.jpg,Apple,Fake
+,genLogoOutput\Apple\scal_000005.jpg,Apple,Fake
+,genLogoOutput\Ariel\scal_000001.jpg,Ariel,Fake
+,genLogoOutput\Ariel\scal_000002.jpg,Ariel,Fake
+,genLogoOutput\Ariel\scal_000005.jpg,Ariel,Fake
+,genLogoOutput\Bic\scal_000001.jpg,Bic,Fake
+,genLogoOutput\Bic\scal_000002.jpg,Bic,Fake
+,genLogoOutput\Bic\scal_000003.jpg,Bic,Fake
+,genLogoOutput\Bic\scal_000004.jpg,Bic,Fake
+,genLogoOutput\Bic\scal_000005.jpg,Bic,Fake
+,genLogoOutput\BMW\scal_000001.jpg,BMW,Fake
+,genLogoOutput\BMW\scal_000003.jpg,BMW,Fake
+,genLogoOutput\BMW\scal_000004.jpg,BMW,Fake
+,genLogoOutput\BMW\scal_000005.jpg,BMW,Fake
+,genLogoOutput\Burger King\scal_000002.jpg,Burger King,Fake
+,genLogoOutput\Burger King\scal_000003.jpg,Burger King,Fake
+,genLogoOutput\Burger King\scal_000004.jpg,Burger King,Fake
+,genLogoOutput\Burger King\scal_000005.jpg,Burger King,Fake
+,genLogoOutput\Cadbury\scal_000001.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\scal_000002.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\scal_000003.jpg,Cadbury,Fake
+,genLogoOutput\Cadbury\scal_000004.jpg,Cadbury,Fake
+,genLogoOutput\Chevrolet\scal_000001.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\scal_000002.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\scal_000003.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\scal_000004.jpg,Chevrolet,Fake
+,genLogoOutput\Chevrolet\scal_000005.jpg,Chevrolet,Fake
+,genLogoOutput\Chrome\scal_000001.jpg,Chrome,Fake
+,genLogoOutput\Chrome\scal_000002.jpg,Chrome,Fake
+,genLogoOutput\Chrome\scal_000003.jpg,Chrome,Fake
+,genLogoOutput\Chrome\scal_000004.jpg,Chrome,Fake
+,genLogoOutput\Chrome\scal_000005.jpg,Chrome,Fake
+,genLogoOutput\Coca Cola\scal_000001.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\scal_000003.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\scal_000004.jpg,Coca Cola,Fake
+,genLogoOutput\Coca Cola\scal_000005.jpg,Coca Cola,Fake
+,genLogoOutput\Cowbell\scal_000001.jpg,Cowbell,Fake
+,genLogoOutput\Cowbell\scal_000002.jpg,Cowbell,Fake
+,genLogoOutput\Cowbell\scal_000003.jpg,Cowbell,Fake
+,genLogoOutput\Dominos\scal_000001.jpg,Dominos,Fake
+,genLogoOutput\Dominos\scal_000002.jpg,Dominos,Fake
+,genLogoOutput\Dominos\scal_000003.jpg,Dominos,Fake
+,genLogoOutput\Dominos\scal_000004.jpg,Dominos,Fake
+,genLogoOutput\Fila\scal_000001.jpg,Fila,Fake
+,genLogoOutput\Fila\scal_000002.jpg,Fila,Fake
+,genLogoOutput\Fila\scal_000003.jpg,Fila,Fake
+,genLogoOutput\Fila\scal_000004.jpg,Fila,Fake
+,genLogoOutput\Fila\scal_000005.jpg,Fila,Fake
+,genLogoOutput\Gillette\scal_000001.jpg,Gillette,Fake
+,genLogoOutput\Gillette\scal_000002.jpg,Gillette,Fake
+,genLogoOutput\Gillette\scal_000003.jpg,Gillette,Fake
+,genLogoOutput\Gillette\scal_000004.jpg,Gillette,Fake
+,genLogoOutput\Gillette\scal_000005.jpg,Gillette,Fake
+,genLogoOutput\Google\scal_000001.jpg,Google,Fake
+,genLogoOutput\Google\scal_000002.jpg,Google,Fake
+,genLogoOutput\Google\scal_000003.jpg,Google,Fake
+,genLogoOutput\Google\scal_000004.jpg,Google,Fake
+,genLogoOutput\Google\scal_000005.jpg,Google,Fake
+,genLogoOutput\Goya oil\scal_000001.jpg,Goya oil,Fake
+,genLogoOutput\Goya oil\scal_000002.jpg,Goya oil,Fake
+,genLogoOutput\Goya oil\scal_000003.jpg,Goya oil,Fake
+,genLogoOutput\Guinness\scal_000001.jpg,Guinness,Fake
+,genLogoOutput\Guinness\scal_000002.jpg,Guinness,Fake
+,genLogoOutput\Guinness\scal_000003.jpg,Guinness,Fake
+,genLogoOutput\Guinness\scal_000004.jpg,Guinness,Fake
+,genLogoOutput\Guinness\scal_000005.jpg,Guinness,Fake
+,genLogoOutput\Heinz\scal_000001.jpg,Heinz,Fake
+,genLogoOutput\Heinz\scal_000002.jpg,Heinz,Fake
+,genLogoOutput\Heinz\scal_000003.jpg,Heinz,Fake
+,genLogoOutput\Heinz\scal_000004.jpg,Heinz,Fake
+,genLogoOutput\Heinz\scal_000005.jpg,Heinz,Fake
+,genLogoOutput\Honda\scal_000001.jpg,Honda,Fake
+,genLogoOutput\Honda\scal_000002.jpg,Honda,Fake
+,genLogoOutput\Honda\scal_000003.jpg,Honda,Fake
+,genLogoOutput\Honda\scal_000004.jpg,Honda,Fake
+,genLogoOutput\Hp\scal_000001.jpg,Hp,Fake
+,genLogoOutput\Hp\scal_000002.jpg,Hp,Fake
+,genLogoOutput\Hp\scal_000003.jpg,Hp,Fake
+,genLogoOutput\Hp\scal_000004.jpg,Hp,Fake
+,genLogoOutput\Hp\scal_000005.jpg,Hp,Fake
+,genLogoOutput\Huawei\scal_000001.jpg,Huawei,Fake
+,genLogoOutput\Huawei\scal_000002.jpg,Huawei,Fake
+,genLogoOutput\Huawei\scal_000003.jpg,Huawei,Fake
+,genLogoOutput\Huawei\scal_000004.jpg,Huawei,Fake
+,genLogoOutput\Huawei\scal_000005.jpg,Huawei,Fake
+,genLogoOutput\Instagram\scal_000001.jpg,Instagram,Fake
+,genLogoOutput\Instagram\scal_000002.jpg,Instagram,Fake
+,genLogoOutput\Instagram\scal_000003.jpg,Instagram,Fake
+,genLogoOutput\Instagram\scal_000004.jpg,Instagram,Fake
+,genLogoOutput\Instagram\scal_000005.jpg,Instagram,Fake
+,genLogoOutput\Kfc\scal_000001.jpg,Kfc,Fake
+,genLogoOutput\Kfc\scal_000002.jpg,Kfc,Fake
+,genLogoOutput\Kfc\scal_000003.jpg,Kfc,Fake
+,genLogoOutput\Kfc\scal_000004.jpg,Kfc,Fake
+,genLogoOutput\Kfc\scal_000005.jpg,Kfc,Fake
+,genLogoOutput\Krisspy Kreme\scal_000001.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\scal_000002.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\scal_000003.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\scal_000004.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Krisspy Kreme\scal_000005.jpg,Krisspy Kreme,Fake
+,genLogoOutput\Lays\scal_000001.jpg,Lays,Fake
+,genLogoOutput\Lays\scal_000002.jpg,Lays,Fake
+,genLogoOutput\Lays\scal_000003.jpg,Lays,Fake
+,genLogoOutput\Lays\scal_000004.jpg,Lays,Fake
+,genLogoOutput\Lays\scal_000005.jpg,Lays,Fake
+,genLogoOutput\Levi's\scal_000001.jpg,Levi's,Fake
+,genLogoOutput\Levi's\scal_000002.jpg,Levi's,Fake
+,genLogoOutput\Levi's\scal_000003.jpg,Levi's,Fake
+,genLogoOutput\Levi's\scal_000004.jpg,Levi's,Fake
+,genLogoOutput\Lg\scal_000001.jpg,Lg,Fake
+,genLogoOutput\Lg\scal_000003.jpg,Lg,Fake
+,genLogoOutput\Lg\scal_000004.jpg,Lg,Fake
+,genLogoOutput\Lg\scal_000005.jpg,Lg,Fake
+,genLogoOutput\Lipton\scal_000001.jpg,Lipton,Fake
+,genLogoOutput\Lipton\scal_000002.jpg,Lipton,Fake
+,genLogoOutput\Lipton\scal_000003.jpg,Lipton,Fake
+,genLogoOutput\Lipton\scal_000005.jpg,Lipton,Fake
+,genLogoOutput\M&m\scal_000001.jpg,M&m,Fake
+,genLogoOutput\M&m\scal_000002.jpg,M&m,Fake
+,genLogoOutput\M&m\scal_000003.jpg,M&m,Fake
+,genLogoOutput\M&m\scal_000004.jpg,M&m,Fake
+,genLogoOutput\Mars\scal_000001.jpg,Mars,Fake
+,genLogoOutput\Mars\scal_000002.jpg,Mars,Fake
+,genLogoOutput\Mars\scal_000004.jpg,Mars,Fake
+,genLogoOutput\Marvel\scal_000001.jpg,Marvel,Fake
+,genLogoOutput\Marvel\scal_000002.jpg,Marvel,Fake
+,genLogoOutput\Marvel\scal_000003.jpg,Marvel,Fake
+,genLogoOutput\Marvel\scal_000004.jpg,Marvel,Fake
+,genLogoOutput\Marvel\scal_000005.jpg,Marvel,Fake
+,genLogoOutput\McDonald\scal_000001.jpg,McDonald,Fake
+,genLogoOutput\McDonald\scal_000002.jpg,McDonald,Fake
+,genLogoOutput\McDonald\scal_000003.jpg,McDonald,Fake
+,genLogoOutput\McDonald\scal_000004.jpg,McDonald,Fake
+,genLogoOutput\McDonald\scal_000005.jpg,McDonald,Fake
+,genLogoOutput\Mercedes Benz\scal_000001.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\scal_000002.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\scal_000003.jpg,Mercedes Benz,Fake
+,genLogoOutput\Mercedes Benz\scal_000005.jpg,Mercedes Benz,Fake
+,genLogoOutput\Microsoft\scal_000001.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\scal_000002.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\scal_000003.jpg,Microsoft,Fake
+,genLogoOutput\Microsoft\scal_000004.jpg,Microsoft,Fake
+,genLogoOutput\Mtn\scal_000001.jpg,Mtn,Fake
+,genLogoOutput\Mtn\scal_000002.jpg,Mtn,Fake
+,genLogoOutput\Mtn\scal_000004.jpg,Mtn,Fake
+,genLogoOutput\Mtn\scal_000005.jpg,Mtn,Fake
+,genLogoOutput\Mtn dew\scal_000001.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\scal_000002.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\scal_000003.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\scal_000004.jpg,Mtn dew,Fake
+,genLogoOutput\Mtn dew\scal_000005.jpg,Mtn dew,Fake
+,genLogoOutput\NASA\scal_000002.jpg,NASA,Fake
+,genLogoOutput\NASA\scal_000004.jpg,NASA,Fake
+,genLogoOutput\NASA\scal_000005.jpg,NASA,Fake
+,genLogoOutput\Nescafe\scal_000001.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\scal_000002.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\scal_000003.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\scal_000004.jpg,Nescafe,Fake
+,genLogoOutput\Nescafe\scal_000005.jpg,Nescafe,Fake
+,genLogoOutput\Nestle\scal_000001.jpg,Nestle,Fake
+,genLogoOutput\Nestle\scal_000002.jpg,Nestle,Fake
+,genLogoOutput\Nestle\scal_000003.jpg,Nestle,Fake
+,genLogoOutput\Nestle\scal_000005.jpg,Nestle,Fake
+,genLogoOutput\Nestle milo\scal_000001.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\scal_000002.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\scal_000003.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\scal_000004.jpg,Nestle milo,Fake
+,genLogoOutput\Nestle milo\scal_000005.jpg,Nestle milo,Fake
+,genLogoOutput\Netflix\scal_000001.jpg,Netflix,Fake
+,genLogoOutput\Netflix\scal_000003.jpg,Netflix,Fake
+,genLogoOutput\Netflix\scal_000004.jpg,Netflix,Fake
+,genLogoOutput\Netflix\scal_000005.jpg,Netflix,Fake
+,genLogoOutput\Nike\scal_000001.jpg,Nike,Fake
+,genLogoOutput\Nike\scal_000002.jpg,Nike,Fake
+,genLogoOutput\Nike\scal_000003.jpg,Nike,Fake
+,genLogoOutput\Nike\scal_000005.jpg,Nike,Fake
+,genLogoOutput\Nutella\scal_000001.jpg,Nutella,Fake
+,genLogoOutput\Nutella\scal_000002.jpg,Nutella,Fake
+,genLogoOutput\Nutella\scal_000003.jpg,Nutella,Fake
+,genLogoOutput\Nutella\scal_000004.jpg,Nutella,Fake
+,genLogoOutput\Oral b\scal_000001.jpg,Oral b,Fake
+,genLogoOutput\Oral b\scal_000002.jpg,Oral b,Fake
+,genLogoOutput\Oral b\scal_000003.jpg,Oral b,Fake
+,genLogoOutput\Oral b\scal_000004.jpg,Oral b,Fake
+,genLogoOutput\Oral b\scal_000005.jpg,Oral b,Fake
+,genLogoOutput\Oreo\scal_000001.jpg,Oreo,Fake
+,genLogoOutput\Oreo\scal_000002.jpg,Oreo,Fake
+,genLogoOutput\Oreo\scal_000003.jpg,Oreo,Fake
+,genLogoOutput\Pay pal\scal_000001.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\scal_000002.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\scal_000003.jpg,Pay pal,Fake
+,genLogoOutput\Pay pal\scal_000004.jpg,Pay pal,Fake
+,genLogoOutput\Peak milk\scal_000001.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\scal_000002.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\scal_000003.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\scal_000004.jpg,Peak milk,Fake
+,genLogoOutput\Peak milk\scal_000005.jpg,Peak milk,Fake
+,genLogoOutput\Pepsi\scal_000001.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\scal_000002.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\scal_000004.jpg,Pepsi,Fake
+,genLogoOutput\Pepsi\scal_000005.jpg,Pepsi,Fake
+,genLogoOutput\PlayStation\scal_000001.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\scal_000002.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\scal_000003.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\scal_000004.jpg,PlayStation,Fake
+,genLogoOutput\PlayStation\scal_000005.jpg,PlayStation,Fake
+,genLogoOutput\Pringles\scal_000001.jpg,Pringles,Fake
+,genLogoOutput\Pringles\scal_000003.jpg,Pringles,Fake
+,genLogoOutput\Pringles\scal_000004.jpg,Pringles,Fake
+,genLogoOutput\Pringles\scal_000005.jpg,Pringles,Fake
+,genLogoOutput\Puma\scal_000001.jpg,Puma,Fake
+,genLogoOutput\Puma\scal_000002.jpg,Puma,Fake
+,genLogoOutput\Puma\scal_000005.jpg,Puma,Fake
+,genLogoOutput\Reebok\scal_000002.jpg,Reebok,Fake
+,genLogoOutput\Reebok\scal_000003.jpg,Reebok,Fake
+,genLogoOutput\Reebok\scal_000004.jpg,Reebok,Fake
+,genLogoOutput\Reebok\scal_000005.jpg,Reebok,Fake
+,genLogoOutput\Rolex\scal_000001.jpg,Rolex,Fake
+,genLogoOutput\Rolex\scal_000002.jpg,Rolex,Fake
+,genLogoOutput\Rolex\scal_000003.jpg,Rolex,Fake
+,genLogoOutput\Rolex\scal_000004.jpg,Rolex,Fake
+,genLogoOutput\Samsung\scal_000001.jpg,Samsung,Fake
+,genLogoOutput\Samsung\scal_000002.jpg,Samsung,Fake
+,genLogoOutput\Samsung\scal_000004.jpg,Samsung,Fake
+,genLogoOutput\Samsung\scal_000005.jpg,Samsung,Fake
+,genLogoOutput\Sprite\scal_000001.jpg,Sprite,Fake
+,genLogoOutput\Sprite\scal_000002.jpg,Sprite,Fake
+,genLogoOutput\Sprite\scal_000003.jpg,Sprite,Fake
+,genLogoOutput\Sprite\scal_000004.jpg,Sprite,Fake
+,genLogoOutput\Sprite\scal_000005.jpg,Sprite,Fake
+,genLogoOutput\Starbucks\scal_000001.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\scal_000002.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\scal_000003.jpg,Starbucks,Fake
+,genLogoOutput\Starbucks\scal_000004.jpg,Starbucks,Fake
+,genLogoOutput\Tesla\scal_000001.jpg,Tesla,Fake
+,genLogoOutput\Tesla\scal_000002.jpg,Tesla,Fake
+,genLogoOutput\Tesla\scal_000003.jpg,Tesla,Fake
+,genLogoOutput\Tesla\scal_000004.jpg,Tesla,Fake
+,genLogoOutput\Tesla\scal_000005.jpg,Tesla,Fake
+,genLogoOutput\Tiktok\scal_000001.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\scal_000002.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\scal_000004.jpg,Tiktok,Fake
+,genLogoOutput\Tiktok\scal_000005.jpg,Tiktok,Fake
+,genLogoOutput\Twitter\scal_000001.jpg,Twitter,Fake
+,genLogoOutput\Twitter\scal_000002.jpg,Twitter,Fake
+,genLogoOutput\Twitter\scal_000003.jpg,Twitter,Fake
+,genLogoOutput\Twitter\scal_000004.jpg,Twitter,Fake
+,genLogoOutput\Twitter\scal_000005.jpg,Twitter,Fake
+,genLogoOutput\YouTube\scal_000001.jpg,YouTube,Fake
+,genLogoOutput\YouTube\scal_000002.jpg,YouTube,Fake
+,genLogoOutput\YouTube\scal_000003.jpg,YouTube,Fake
+,genLogoOutput\YouTube\scal_000004.jpg,YouTube,Fake
+,genLogoOutput\YouTube\scal_000005.jpg,YouTube,Fake
+,genLogoOutput\Zara\scal_000001.jpg,Zara,Fake
+,genLogoOutput\Zara\scal_000002.jpg,Zara,Fake
+,genLogoOutput\Zara\scal_000003.jpg,Zara,Fake
+,genLogoOutput\Zara\scal_000005.jpg,Zara,Fake
